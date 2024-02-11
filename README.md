@@ -22,4 +22,4 @@ Durante o curso, são exploradas ferramentas, incluindo:
 
 ---
 
-_**STATUS**_: EM ANDAMENTO 
+_**STATUS**_: [CONCLUÍDO](https://udemy-certificate.s3.amazonaws.com/image/UC-dcac6fa6-471e-42db-bbe8-fdaf46271988.jpg)
