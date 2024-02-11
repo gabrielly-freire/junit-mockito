@@ -74,7 +74,7 @@ class UsuarioServiceTest {
             usuarioService.salvar(userToSave);
         });
 
-        Assertions.assertEquals("Usuario  já cadastrado!", ex.getMessage());
+        Assertions.assertEquals("Usuario user@email.com já cadastrado!", ex.getMessage());
         Mockito.verify(usuarioRepository, Mockito.never()).salvar(userToSave);
     }
 }
